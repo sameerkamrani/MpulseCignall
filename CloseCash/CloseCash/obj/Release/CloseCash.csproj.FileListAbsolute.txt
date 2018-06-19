@@ -1,0 +1,8 @@
+F:\Mpulse\CloseCash\CloseCash\bin\Release\CloseCash.exe.config
+F:\Mpulse\CloseCash\CloseCash\bin\Release\CloseCash.exe
+F:\Mpulse\CloseCash\CloseCash\bin\Release\CloseCash.pdb
+F:\Mpulse\CloseCash\CloseCash\bin\Release\CryptographyUnit.dll
+F:\Mpulse\CloseCash\CloseCash\bin\Release\MySql.Data.dll
+F:\Mpulse\CloseCash\CloseCash\obj\Release\CloseCash.csprojResolveAssemblyReference.cache
+F:\Mpulse\CloseCash\CloseCash\obj\Release\CloseCash.exe
+F:\Mpulse\CloseCash\CloseCash\obj\Release\CloseCash.pdb

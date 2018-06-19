@@ -1,0 +1,8 @@
+F:\Mpulse\DownloadCatalog\DownloadCatalog\bin\Release\DownloadCatalog.exe.config
+F:\Mpulse\DownloadCatalog\DownloadCatalog\bin\Release\DownloadCatalog.exe
+F:\Mpulse\DownloadCatalog\DownloadCatalog\bin\Release\DownloadCatalog.pdb
+F:\Mpulse\DownloadCatalog\DownloadCatalog\bin\Release\CryptographyUnit.dll
+F:\Mpulse\DownloadCatalog\DownloadCatalog\bin\Release\MySql.Data.dll
+F:\Mpulse\DownloadCatalog\DownloadCatalog\obj\Release\DownloadCatalog.exe
+F:\Mpulse\DownloadCatalog\DownloadCatalog\obj\Release\DownloadCatalog.pdb
+F:\Mpulse\DownloadCatalog\DownloadCatalog\obj\Release\DownloadCatalog.csprojResolveAssemblyReference.cache

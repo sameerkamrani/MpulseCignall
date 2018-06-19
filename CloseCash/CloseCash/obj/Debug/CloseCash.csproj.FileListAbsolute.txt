@@ -1,0 +1,14 @@
+F:\Mpulse\CloseCash\CloseCash\bin\Debug\CloseCash.exe.config
+F:\Mpulse\CloseCash\CloseCash\bin\Debug\CloseCash.exe
+F:\Mpulse\CloseCash\CloseCash\bin\Debug\CloseCash.pdb
+F:\Mpulse\CloseCash\CloseCash\bin\Debug\CryptographyUnit.dll
+F:\Mpulse\CloseCash\CloseCash\bin\Debug\MySql.Data.dll
+F:\Mpulse\SendTransactions\SendTransactions\bin\Release\CloseCash.exe.config
+F:\Mpulse\SendTransactions\SendTransactions\bin\Release\CloseCash.exe
+F:\Mpulse\SendTransactions\SendTransactions\bin\Release\CloseCash.pdb
+F:\Mpulse\Cignal\CloseCash.exe.config
+F:\Mpulse\Cignal\CloseCash.exe
+F:\Mpulse\Cignal\CloseCash.pdb
+F:\Mpulse\CloseCash\CloseCash\obj\Debug\CloseCash.exe
+F:\Mpulse\CloseCash\CloseCash\obj\Debug\CloseCash.pdb
+F:\Mpulse\CloseCash\CloseCash\obj\Debug\CloseCash.csprojResolveAssemblyReference.cache
